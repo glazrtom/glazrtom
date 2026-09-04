@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working as a **DevOps Engineer**, building and automating scalable infrastructure ☸️  <br>🌱 With a background in **native Android development** 📱 and **PHP backend development** 🐘, now diving deeper into **Kubernetes**, **CI/CD**, and **cloud infrastructure** ☁️  <br>⚡ In my free time, you'll find me playing **badminton** 🏸, **hiking** 🥾, or **wall climbing** 🧗
+🔭 Currently working as a **DevOps & Cloud Engineer**, building and automating scalable infrastructure ☸️  <br>🌱 With a background in **native Android development** 📱 and **PHP backend development** 🐘, now diving deeper into **Kubernetes**, **CI/CD**, and **cloud infrastructure** ☁️  <br>⚡ In my free time, you'll find me playing **badminton** 🏸, **hiking** 🥾, or **wall climbing** 🧗
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tomasglazr/) 
